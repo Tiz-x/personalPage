@@ -75,6 +75,11 @@ li a:hover::before{
   display: none;
   cursor: pointer;
 }
+#off-icon{
+  font-size: 2rem;
+  display: none;
+  cursor: pointer;
+}
 section{
   min-height: 100vh;
   padding: 8rem 12%;
